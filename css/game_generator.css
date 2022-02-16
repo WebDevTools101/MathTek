@@ -1,0 +1,21 @@
+.game-container{
+  width: 720px;
+  height: 570px;
+  background:red;
+}
+.split-container{
+  width: 530px;
+  height: 570px;
+  background:blue;
+}
+@media only screen and (min-width: 1170px){
+	.cd-main-content .content-wrapper {
+	    margin-left: 65px;
+	}
+}
+@media only screen and (min-width: 1170px){
+	.cd-side-nav {
+	    width: 100px;
+	    position: fixed;
+	}
+}
