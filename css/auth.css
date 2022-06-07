@@ -180,7 +180,7 @@ button, .btn-signin:hover{
 }
 
 .overlay {
-	background-image: url('../../assets/images/background/mathtek.jpg');
+	background-image: url('https://webdevtools101.github.io/MathTek/images/background/mathtek.jpg');
 	/*background: -webkit-linear-gradient(to right, #4bdeff, #3495f7);
 	background: linear-gradient(to right, #4bdeff, #3495f7);*/
 	background-repeat: no-repeat;
