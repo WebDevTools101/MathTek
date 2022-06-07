@@ -1,24 +1,27 @@
 @font-face{
   font-family: "ranile";
-  src: url("../../assets/fonts/ranile/ranile-normal.ttf");}
+  src: url("https://webdevtools101.github.io/fonts/ranile/ranile-normal.ttf");}
 @font-face{
   font-family: "ladasan";
-  src: url("../../assets/fonts/ladasan/ladasan.otf");}
+  src: url("https://webdevtools101.github.io/fonts/ladasan/ladasan.otf");}
 @font-face{
   font-family: "colombia";
-  src: url("../../assets/fonts/colombia/colombia.ttf");}
+  src: url("https://webdevtools101.github.io/fonts/colombia/colombia.ttf");}
 @font-face{
   font-family: "ranile";
-  src: url("../../assets/fonts/ranile/ranile.ttf");}
+  src: url("https://webdevtools101.github.io/fonts/ranile/ranile.ttf");}
 @font-face{
   font-family: "lemon";
-  src: url("../../assets/fonts/lemon/lemonmilk.otf");}
+  src: url("https://webdevtools101.github.io/fonts/lemon/lemonmilk.otf");}
 @font-face{
   font-family: "moonglade";
-  src: url("../../assets/fonts/moonglade/moonglade.ttf");}
+  src: url("https://webdevtools101.github.io/fonts/moonglade/moonglade.ttf");}
 @font-face{
   font-family: "geliat";
-  src: url("../../assets/fonts/geliat/geliat.otf");}
+  src: url("https://webdevtools101.github.io/fonts/geliat/geliat.otf");}
+@font-face{
+  font-family: "junegull";
+  src: url("https://webdevtools101.github.io/fonts/junegull/junegull.ttf");}
 .bold{
   font-weight: bolder;
 }
